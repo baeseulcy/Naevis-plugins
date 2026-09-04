@@ -1,21 +1,23 @@
-{
-  "id": "nuvio-krmzy-alooytv",
-  "name": "Krmzy + AlooyTV",
-  "description": "Arabic/Turkish TV series from Krmzy and AlooyTV",
-  "version": "1.0",
-  "author": "Custom",
-  "supportedTypes": [
-    "tv"
-  ],
-  "filename": "providers/krmzy-alooytv.js",
-  "enabled": true,
-  "formats": [
-    "m3u8",
-    "mp4",
-    "mkv"
-  ],
-  "contentLanguage": [
-    "ar",
-    "tr"
-  ]
-}
+[
+  {
+    "id": "nuvio-krmzy-alooytv",
+    "name": "Krmzy + AlooyTV",
+    "description": "Arabic/Turkish TV series from Krmzy and AlooyTV",
+    "version": "1.0.0",
+    "author": "Custom",
+    "supportedTypes": [
+      "tv"
+    ],
+    "filename": "providers/krmzy-alooytv.js",
+    "enabled": true,
+    "formats": [
+      "m3u8",
+      "mp4",
+      "mkv"
+    ],
+    "contentLanguage": [
+      "ar",
+      "tr"
+    ]
+  }
+]
